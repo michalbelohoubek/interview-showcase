@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name" />
+
+    <string name="sign_in_google">Continue with Google</string>
+
+    <string name="competition_type_league">League</string>
+    <string name="competition_type_playoff">Playoff</string>
+    <string name="competition_type_league_with_playoff">League with Playoff</string>
+    <string name="competition_type_groups_with_playoff">Groups with Playoff</string>
+
+    <string name="general_delete">Delete</string>
+    <string name="general_cancel">Cancel</string>
+    <string name="general_continue">Continue</string>
+    <string name="general_ok_understand">OK, I understand!</string>
+    <string name="general_discard">Discard</string>
+    <string name="general_error">Error</string>
+
+    <string name="empty">Empty</string>
+
+    <string name="sport_football">Football</string>
+    <string name="sport_hockey">Hockey</string>
+    <string name="sport_basketball">Basketball</string>
+</resources>

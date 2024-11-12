@@ -1,0 +1,9 @@
+<resources>
+    <string name="welcome_prefix">Welcome to</string>
+    <string name="welcome_postfix">The ultimate app for seamlessly managing and organizing your tournaments with ease. Hope you enjoy it!</string>
+    <string name="sign_in_anonymously">Continue anonymously</string>
+    <string name="sign_in_error_account_collision">Account already exists!</string>
+    <string name="sign_in_error_invalid_credentials">Invalid credentials!</string>
+    <string name="sign_in_error_unrecognized_credentials">Unrecognized credentials. Please sign-in with Google.</string>
+    <string name="sign_in_error_cancelled">Sign-in cancelled</string>
+</resources>

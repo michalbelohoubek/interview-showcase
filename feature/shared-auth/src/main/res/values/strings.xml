@@ -1,0 +1,8 @@
+<resources>
+    <string name="sign_in_error_account_collision">Account already exists!</string>
+    <string name="sign_in_error_invalid_credentials">Invalid credentials!</string>
+    <string name="sign_in_error_unrecognized_credentials">Unrecognized credentials. Please sign-in with Google.</string>
+    <string name="sign_in_error_no_credentials">No credentials found!</string>
+    <string name="sign_in_error_id_token_parsing">Sign-in error. Please try again later or check your internet connection</string>
+    <string name="sign_in_error_cancelled">Cancelled</string>
+</resources>

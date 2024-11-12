@@ -1,0 +1,5 @@
+<resources>
+    <!-- For setServerClientId... it's taken from Firebase console -> Authentication tab -> Sign-in method -> Google -> Web client id -->
+    <!-- TODO: Replace with your web client -->
+    <string name="web_client_id"></string>
+</resources>

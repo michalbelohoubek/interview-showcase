@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "TournamentPro Manager": "tournamentpro-manager",
+    "default": "tournamentpro-manager"
+  },
+  "targets": {},
+  "etags": {}
+}
